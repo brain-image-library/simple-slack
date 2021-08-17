@@ -22,6 +22,8 @@ if results.channel == 'icaoberg':
 	url = CHANNEL_ICAOBERG
 elif results.channel == 'bil-dev':
 	url = CHANNEL_BIL_DEV
+elif results.channel == 'bil-all':
+	url = CHANNEL_BIL_ALL
 else:
 	print('Unknown channel name. Exiting method.')
 	exit()
