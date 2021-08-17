@@ -1,6 +1,6 @@
 # simple-slack
 
-[![asciicast](https://asciinema.org/a/3p8g4wt1mvsaCsFxJPCaF6EAQ.png)](https://asciinema.org/a/3p8g4wt1mvsaCsFxJPCaF6EAQ)
+<img src="https://logos-world.net/wp-content/uploads/2020/10/Slack-Logo-2019-present.jpg" width="25%">
 
 A simple script to on the Brain Image Library channels.
 
@@ -16,4 +16,5 @@ A simple script to on the Brain Image Library channels.
 
 ```
 ./slack.py -u bil-dev -m "Spartans! Ready your breakfast and eat hearty for tonight WE DINE IN HELL!"
+./slack.py -u bil-all -m "Toto, I've got a feeling we're not in Kansas anymore." 
 ```
