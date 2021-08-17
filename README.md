@@ -1,11 +1,10 @@
 # simple-slack
-
-<img src="https://logos-world.net/wp-content/uploads/2020/10/Slack-Logo-2019-present.jpg" width="25%">
+<img src="https://logos-world.net/wp-content/uploads/2020/10/Slack-Logo-2019-present.jpg" width="50%">
 
 A simple script to on the Brain Image Library channels.
 
 ## Disclaimer
-:warning: This script is for personal use. I am just sharing it in case some people might find it useful.
+:warning: This script is for personal use. I am just sharing it in case some people might find it useful. :warning:
 
 # Dependencies
 * Python 3+
